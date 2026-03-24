@@ -32,7 +32,7 @@ Offensive Security Researcher & Penetration Tester specializing in
 <strong>Web, API, and Network Security</strong>.
 
 - 🐞 Verified Bug Bounty Hunter (7+ valid vulnerabilities)
-- 🏆 Top **#6 National Rank** on TryHackMe
+- 🏆 Top **#53 National Rank** on CUETCTF
 - ⚔️ Strong focus on exploitation, reconnaissance & automation
 
 
