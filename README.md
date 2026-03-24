@@ -37,7 +37,7 @@
 Offensive Security Researcher & Penetration Tester specializing in  
 <strong>Web, API, and Network Security</strong>.
 
-- 🐞 Verified Bug Bounty Hunter (7+ valid vulnerabilities)
+- 🐞 Verified Bug Bounty Hunter 
 - 🏆 Top **#53 National Rank** on CUETCTF2025
 - ⚔️ Strong focus on exploitation, reconnaissance & automation
 
