@@ -26,7 +26,7 @@
   <a href="https://alhamrizvi.wordpress.com/">
     <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=wordpress"/>
   </a>
-  <a href="mailto:its47h4m@gmail.com">
+  <a href="biplobd2211@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/alham-rizvi">
