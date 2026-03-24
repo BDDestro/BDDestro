@@ -20,19 +20,13 @@
 </p>
 
 <p align="center">
-  <a href="https://alhamrizvi-cloud.github.io/">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome"/>
-  </a>
-  <a href="https://alhamrizvi.wordpress.com/">
-    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=wordpress"/>
-  </a>
-  <a href="mail:biplobd2211@gmail.com">
+  <a href="mailto:biplobd2211@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/biplob-das-234bb03a1">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://twitter.com/Alhamrizvii">
+  <a href="https://x.com/BiplobDas1971BD">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
   </a>
 </p>
