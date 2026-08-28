@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=Biplob+Das;Offensive+Security+Researcher;Penetration+Tester" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=Biplob+Das;Cyber+Security+Researcher;Penetration+Tester;Purple+Team" />
 </h1>
 
 <div align="center">
@@ -33,7 +33,7 @@
 
 
 
-## 🧠 Profile
+##  Profile
 Offensive Security Researcher & Penetration Tester specializing in  
 <strong>Web, API, and Network Security</strong>.
 
