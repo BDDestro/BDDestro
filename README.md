@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <em><strong>Web • API • Network & Cloud Security  • AI </strong></em>
+  <em><strong>Web • API • Network Security • SOC • AI </strong></em>
 </p>
 
 <p align="center">
